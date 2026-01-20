@@ -39,10 +39,10 @@ This dashboard solves this problem by providing **interactive and actionable ins
 ---
 
 ## 📊 Dashboard KPIs
-- ⚠️ **Avg Panic Frequency:**  
-- ☕ **Avg Caffeine Intake:**  
-- 😴 **Avg Sleep Hours:** 
-- 📈 **Avg Panic Score:**   
+- ⚠️ **Avg Panic Frequency**  
+- ☕ **Avg Caffeine Intake**  
+- 😴 **Avg Sleep Hours** 
+- 📈 **Avg Panic Score**   
 
 ---
 
